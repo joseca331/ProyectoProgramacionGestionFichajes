@@ -17,6 +17,7 @@ Funcionalidades principales
 - Asociación de jugadores con representantes.
 - Consulta de estadísticas individuales de los jugadores por temporada.
 - Carga inicial de datos de prueba para simular una pequeña base de datos realista.
+- Diseño UML de clases para su futura implementación en Java con JDBC.
 
 
 Estructura de la Base de Datos
