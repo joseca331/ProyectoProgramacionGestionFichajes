@@ -16,6 +16,4 @@ Funcionalidades principales
 - Registro de fichajes entre clubes con información detallada (fecha, precio, clubes implicados).
 - Asociación de jugadores con representantes.
 - Consulta de estadísticas individuales de los jugadores por temporada.
-- Historial de clubes por los que ha pasado cada jugador.
 - Carga inicial de datos de prueba para simular una pequeña base de datos realista.
-- Diseño UML de clases para su futura implementación en Java con JDBC.
