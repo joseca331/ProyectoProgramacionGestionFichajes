@@ -17,3 +17,15 @@ Funcionalidades principales
 - Asociación de jugadores con representantes.
 - Consulta de estadísticas individuales de los jugadores por temporada.
 - Carga inicial de datos de prueba para simular una pequeña base de datos realista.
+
+
+Estructura de la Base de Datos
+
+La base de datos está compuesta por las siguientes tablas:
+- Jugador
+- Representante
+- Equipo
+- Contrato
+- Fichaje
+- Temporada
+- EstadisticaJugador
