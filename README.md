@@ -10,7 +10,6 @@ Permitirá registrar y consultar de forma eficiente los movimientos de jugadores
 
 Funcionalidades principales
 
-
 - Registro y gestión de jugadores y clubes de fútbol.
 - Gestión de contratos entre jugadores y clubes (fechas, salario, cláusula de rescisión).
 - Registro de fichajes entre clubes con información detallada (fecha, precio, clubes implicados).
